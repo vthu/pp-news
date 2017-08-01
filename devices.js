@@ -20,7 +20,7 @@ module.exports = [
     {
         uid: 4,
         titleText: 'Myself & Amazon Echo',
-        mainText: "Myself & Amazon Echo: Amazon Echo provides hands-free voice control for Amazon Music—just ask for your favorite artist or song, or request a specific genre or lyrics even. Echo is Bluetooth-enabled so you can stream other popular music services like iTunes from your phone. Its dual downward-firing speakers produce 360° omni-directional audio to fill any room with immersive sound. Echo works with devices such as lights, switches, TVs, thermostats, and more devices. And I Alexa—the brain behind Echo enables making calls and messaging. Built on the cloud, the Echo adapts to your speech patterns, vocabulary, and preferences.",
+        mainText: "Myself and Amazon Echo: Amazon Echo provides hands-free voice control for Amazon Music—just ask for your favorite artist or song, or request a specific genre or lyrics even. Echo is Bluetooth-enabled so you can stream other popular music services like iTunes from your phone. Its dual downward-firing speakers produce 360° omni-directional audio to fill any room with immersive sound. Echo works with devices such as lights, switches, TVs, thermostats, and more devices. And I Alexa—the brain behind Echo enables making calls and messaging. Built on the cloud, the Echo adapts to your speech patterns, vocabulary, and preferences.",
         updateDate: new Date().toISOString()
         
     },
