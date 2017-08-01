@@ -39,21 +39,25 @@ module.exports = [
     {
         uid: 7,
         titleText: 'HackRF One',
-        mainText: 'HackRF One: HackRF One, an open source platform which acts like a sound card of computer. The ability to process Digital Signals to Radio waveforms allowing integration of large-scale communication networks is awesome'
+        mainText: 'HackRF One: HackRF One, an open source platform which acts like a sound card of computer. The ability to process Digital Signals to Radio waveforms allowing integration of large-scale communication networks is awesome',
+        updateDate: new Date().toISOString()
     },
     {
         uid: 8,
         titleText: 'Proxmark 3 Kit',
-        mainText: 'The Proxmark targets NFC and RFID frequencies that is capable of both transmitting and receiving while meeting the timing requirements of most proximity protocols.'
+        mainText: 'The Proxmark targets NFC and RFID frequencies that is capable of both transmitting and receiving while meeting the timing requirements of most proximity protocols.',
+        updateDate: new Date().toISOString()
     },
     {
         uid: 9,
         titleText: 'Ubertooth',
-        mainText: 'The Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation. Based on the powerful LPC175x ARM Cortex-M3 microcontroller with full-speed USB 2.0, the Ubertooth One is a great way to develop custom Class 1 comparable Bluetooth devices'
+        mainText: 'The Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation. Based on the powerful LPC175x ARM Cortex-M3 microcontroller with full-speed USB 2.0, the Ubertooth One is a great way to develop custom Class 1 comparable Bluetooth devices',
+        updateDate: new Date().toISOString()
     },
     {
         uid: 10,
         titileText: 'InnovationLab',
-        mainText:'Innovation Lab: It\'s located in Dilli Haat. You can find folks here from all over PayPal Bangalore anytime of the day. It is said that they are redefining the future here.'
+        mainText:'Innovation Lab: It\'s located in Dilli Haat. You can find folks here from all over PayPal Bangalore anytime of the day. It is said that they are redefining the future here.',
+        updateDate: new Date().toISOString()
     }
 ]
