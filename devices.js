@@ -39,7 +39,7 @@ module.exports = [
     {
         uid: 7,
         titleText: 'HackRF One',
-        mainText: 'HackRF One: HackRF One, an open source platform which acts like a sound card of computer. The ability to process Digital Signals to Radio waveforms allowing integration of large-scale communication networks is awesome',
+        mainText: 'HackRF One: An open source platform which acts like a sound card of computer. The ability to process Digital Signals to Radio waveforms allowing integration of large-scale communication networks is awesome',
         updateDate: new Date().toISOString()
     },
     {
